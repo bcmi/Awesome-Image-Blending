@@ -7,6 +7,12 @@ A curated list of papers, code and resources pertaining to image blending.
 Contributions are welcome.  If you wish to contribute, feel free to send a pull request. If you have suggestions for new sections to be included, please raise an issue and discuss before sending a pull request.
 
 
+## Survey
+
+A brief review on image blending is included in the following survey on image composition:
+
+Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Making Images Real Again: A Comprehensive Survey on Deep Image Composition.*" arXiv preprint arXiv:2106.14490 (2021). [[arXiv]](https://arxiv.org/pdf/2106.14490.pdf)
+
 ## Papers
 
 #### Optimization-based Methods
