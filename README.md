@@ -24,7 +24,7 @@ Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Ma
 + Huikai Wu, Shuai Zheng, Junge Zhang, Kaiqi Huang: "*GP-GAN: Towards Realistic High-Resolution Image Blending.*" ACM MM (2019) [[arXiv]](https://arxiv.org/pdf/1703.07195.pdf) [[code]](https://github.com/wuhuikai/GP-GAN)
 
 #### Feed-forward Methods
-
++ Shuo Wang, Weijie Lv, Xinyuan Zhao, Xinyu Zhang, Junyu Su, Long Zeng: "*Refined-mask guided multi-stream blending network.*" Multimedia Tools and Applications (2023) [[pdf]](https://link.springer.com/article/10.1007/s11042-023-17793-6)
 + Yazhou Xing, Yu Li, Xintao Wang, Ye Zhu, Qifeng Chen: "*Composite photograph harmonization with complete background cues.*" ACM MM (2022) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548031)
 + He Zhang, Jianming Zhang, Federico Perazzi, Zhe Lin, Vishal M. Patel: "*Deep Image Compositing.*" WACV (2021) [[pdf]](https://arxiv.org/pdf/2011.02146.pdf)
 
