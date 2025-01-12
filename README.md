@@ -1,6 +1,6 @@
 # Awesome-Image-Blending [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  
-A curated list of papers, code and resources pertaining to image blending. **Image blending aims to blend the foreground into the background seamlessly by coping with the unnatural boundary between foreground and background.** For more complete resources on general image composition, please refer to [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition).
+A curated list of papers, code and resources pertaining to image blending. **Image blending aims to blend the foreground into the background seamlessly by coping with the unnatural boundary between foreground and background.** For more complete resources on general image composition, please refer to [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Object-Insertion).
 
 <p align='center'>  
   <img src='./figures/task.jpg'  width=80% />
@@ -31,4 +31,6 @@ Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Ma
 + Yazhou Xing, Yu Li, Xintao Wang, Ye Zhu, Qifeng Chen: "*Composite photograph harmonization with complete background cues.*" ACM MM (2022) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548031)
 + He Zhang, Jianming Zhang, Federico Perazzi, Zhe Lin, Vishal M. Patel: "*Deep Image Compositing.*" WACV (2021) [[pdf]](https://arxiv.org/pdf/2011.02146.pdf)
 
+## Other Resources
 
++ [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Object-Insertion)
