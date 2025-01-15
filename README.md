@@ -1,6 +1,6 @@
 # Awesome-Image-Blending [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  
-A curated list of papers, code and resources pertaining to image blending. **Image blending aims to blend the foreground into the background seamlessly by coping with the unnatural boundary between foreground and background.** For more complete resources on general image composition, please refer to [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Object-Insertion).
+A curated list of papers, code and resources pertaining to image blending. **Image blending aims to blend the foreground into the background seamlessly by coping with the unnatural boundary between foreground and background.** For more complete resources on general image composition ([object insertion](https://github.com/bcmi/Awesome-Object-Insertion)), please refer to [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Object-Insertion).
 
 <p align='center'>  
   <img src='./figures/task.jpg'  width=80% />
